@@ -1,0 +1,12 @@
+{
+
+    "breakfast":
+    [
+        {"name": "Doodhno Halvo","price":"$75","calories":"325 calories"},
+        {"name": "Raas Gulla","price":"$70","calories":"305 calories"},
+        {"name": "Kala Jam","price":"$72","calories":"328 calories"},
+        {"name": "Mumbai No Halvo","price":"$80","calories":"229 calories"}
+    ]
+
+
+}
